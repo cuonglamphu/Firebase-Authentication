@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "588272654419",
+    "firebase_url": "https://seatscout-aac2d-default-rtdb.firebaseio.com",
+    "project_id": "seatscout-aac2d",
+    "storage_bucket": "seatscout-aac2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588272654419:android:c17d4e021e390686b6cea6",
+        "android_client_info": {
+          "package_name": "co.seatscout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588272654419-iqv18bho5rb41tplrklf3hi839eg8ff8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMjXEhEiTjA9Z8BqmwSj3lkXnvitMBGIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588272654419-iqv18bho5rb41tplrklf3hi839eg8ff8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588272654419-dd9nvcphbt82va63ildv67sibaoc81d9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.seatscout"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
